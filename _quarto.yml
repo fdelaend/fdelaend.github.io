@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "fdelaend.github.io"
+  title: "Eccology Lab"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - research-themes.qmd
+      - researchthemes.qmd
 
 format:
   html:
