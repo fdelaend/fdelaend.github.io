@@ -2,7 +2,7 @@
 title: "Lab of environmental change and community ecology"
 ---
 
-> A central objective in ecology is to understand how environmental change drives ecological change. Our research aims to identify how community characteristics, together with the nature of environmental change itself, shape community dynamics and, in turn, determine composition, biodiversity, and ecosystem functioning. We pursue this goal by integrating mathematical modelling, theoretical development, the analysis of existing data, and experimental studies using microbial systems.
+A central objective in ecology is to understand how environmental change drives ecological change. Our research aims to identify how community characteristics, together with the nature of environmental change itself, shape community dynamics and, in turn, determine composition, biodiversity, and ecosystem functioning. We pursue this goal by integrating mathematical modelling, theoretical development, the analysis of existing data, and experimental studies using microbial systems.
 
 ```{r}
 1 + 1

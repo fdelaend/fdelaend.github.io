@@ -1,0 +1,21 @@
+---
+title: "Research themes"
+---
+
+**Coexistence and stability in altered environments**
+
+For species to persist over time, population growth must be frequency dependent. Natural communities encompass a wide range of mechanisms that generate frequency dependence, including resource partitioning and differential vulnerability to predators. Collectively, these processes are referred to as *stabilizing mechanisms*, as they increase so-called niche differences.
+
+We are also interested in linking this new measure to other aspects of system stability, including resilience (i.e., local stability) and robustness (the propensity for secondary extinctions).
+
+**Multivariate environmental change**
+
+Global change is multifaceted. Understanding and predicting its effects on ecological systems is a key challenge for science, and a pressing need for humanity. At present, however, mechanistic theory to study long-term ecological change (community composition, biodiversity, and stability) is lacking. We address this research gap by building new theory that can foster a general, system-independent understanding. The theory predicts ecological change from multivariate change, through an ensemble of generic descriptors of a community’s ecology, the dynamic behavior of a set of multiple environmental factors, the direct species responses to these factors, and the species’ adaptive potential alter ecological change. Doing so transcends specific details and allows teasing out generalities and differences among community and environmental change types, supporting synthesis.
+
+**Eco-evolutionary feedbacks and stability**
+
+The structure of biological systems is an important determinant of certain stability properties. However, complex eco-evolutionary dynamics can change system responses to perturbations in ways that are unpredictable from structure alone. More specifically, perturbations elicit direct biological responses, which propagate to system responses via phenotype-mediated ecological interactions. These direct responses and ecological interactions depend on phenotypic variance, which can in turn evolve as a consequence of those direct responses and ecological interactions. How such feedbacks affect stability beyond the case of resilience in systems with stable equilibria is at present unknown. We therefore recently started to think about theory to investigate the contribution of such eco-evolutionary feedbacks to various stability properties.
+
+I**mplications of biodiversity change for function**
+
+Human activities cause global environmental changes with important consequences for the functioning of ecosystems. Understanding these consequences is crucial for better policy and conservation strategies. A key question is to what extent changes in ecosystem functioning are mediated by changes of biodiversity. Extensive research has demonstrated that biodiversity is needed for the stable provenance and enhancement of ecosystem processes and functions. However, classic experiments linking biodiversity with ecosystem functions might not capture the complex ways by which shifts in biodiversity induced by global change affect ecosystem functioning. We therefore develop models to understand and simulate the consequences of environmental change for ecosystem functions such as biomass production or litter decomposition.
