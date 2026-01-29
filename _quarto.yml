@@ -13,9 +13,8 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
+    #fontcolor: "#56B4E9"
     css: styles.css
     toc: true
 
