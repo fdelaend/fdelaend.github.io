@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - researchthemes.qmd
+      - people.qmd
 
 format:
   html:
