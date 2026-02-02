@@ -8,11 +8,19 @@ I am interested in the various connections between environmental change, several
 
 **Laura Willam**
 
+![](pics/IMG_20240614_153812.jpg)
+
+Nowadays, ecosystems are subject to an increasing variety of environmental stresses, which can result in biodiversity loss. However, biodiversity plays a key role in maintaining these functions, known as the 'biodiversity insurance effect'. Nevertheless, few studies have examined the impact of diverse environmental stresses on this effect. This is why my project will examine the combined effects of environmental stresses and biodiversity on algal communities using an experimental and modelling approach. 
+
 **Bidesh Bera**
 
 **Arunima Sikder**
 
 **Maria Druet**
+
+![](pics/image002.png){fig-align="left"}
+
+In my PhD project, we investigate how soil saprotrophic fungi respond to heatwaves. I focus on fungal growth, functional traits, and interactions with bacteria in laboratory experiments. The aim is to improve our understanding of fungal ecology under climate change.
 
 **Germain Agazzi**
 
