@@ -34,6 +34,10 @@ I am a PhD student studying community assembly, that is, how species are gained 
 
 **Shangsheng Sun**
 
+![](pics/shangsheng.png){width="200"}
+
+I investigate how multiple environmental stressors affect multi-trophic biodiversity and ecosystem multifunctionality (EMF). My work examines biodiversity responses across trophic levels and their consequences for ecosystem processes. Currently, I am developing skills in ecological modeling to analyze these complex relationships.
+
 **Estelle Lechat**
 
 **Alexis Orban**
