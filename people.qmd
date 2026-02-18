@@ -16,6 +16,10 @@ Nowadays, ecosystems are subject to an increasing variety of environmental stres
 
 **Bidesh Bera**
 
+![](pics/bidesh.png){width="200"}
+
+I am investigating how environmental change influences species coexistence in ecological communities, mainly focusing on two environmental driver as: temperature and pollutants. By integrating species responses to these drivers into disordered systems theory, the project aims to clarify and predict how environmental change shapes community structure and dynamics
+
 **Arunima Sikder**
 
 ![](pics/thumbnail_IMG_7209.jpg){width="200"}
