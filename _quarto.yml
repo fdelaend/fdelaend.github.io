@@ -10,6 +10,7 @@ website:
         text: Home
       - researchthemes.qmd
       - people.qmd
+      - Publications.qmd
 
 format:
   html:
