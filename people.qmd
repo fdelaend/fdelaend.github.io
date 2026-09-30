@@ -65,16 +65,6 @@ Germain is a PhD student studying community assembly, that is, how species are g
 ::::
 
 :::: {.person}
-![](pics/people/shangsheng.jpg){fig-alt="Shangsheng Sun"}
-
-::: {.person-text}
-**Shangsheng Sun**
-
-Shangsheng investigates how multiple environmental stressors affect multi-trophic biodiversity and ecosystem multifunctionality (EMF). This work examines biodiversity responses across trophic levels and their consequences for ecosystem processes. Shangsheng is currently developing skills in ecological modelling to analyze these complex relationships.
-:::
-::::
-
-:::: {.person}
 ![](pics/people/dongyi.jpg){fig-alt="Dongyi Chen"}
 
 ::: {.person-text}

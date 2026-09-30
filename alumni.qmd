@@ -1,0 +1,120 @@
+---
+title: "Alumni"
+---
+
+::: {.alumni}
+
+## Postdocs
+
+**Thomas Parmentier**\
+Thomas studied communities of organisms living in ant nests (myrmecophiles), focusing on their dispersal, food webs and stability.
+
+**Léa Beaumelle**\
+Léa used meta-analyses to study how chemical stressors and nutrients affect biodiversity and ecosystem functions such as litter decomposition.
+
+**Jurg Spaak** (PhD student and postdoc)\
+Jurg worked on species coexistence theory, proposing a new definition of niche and fitness differences and extending it to higher-order and facilitative interactions.
+
+**Zhao Qinghua** (PhD student and postdoc)\
+Qinghua studied how biodiversity, food web structure and temperature relate to the stability of aquatic food webs.
+
+**Javier Jarillo**\
+Javier studied how stability scales across space and ecological levels in spatially structured community networks.
+
+**Jan Baert** (PhD student and postdoc)\
+Jan studied how environmental stress changes the effects of biodiversity on ecosystem functioning, using experiments with diatom communities.
+
+**Devdutt Kulkarni**
+
+## PhD students
+
+**Camille Carpentier** (Master student and PhD student)\
+Camille studied the structure of food webs, including how the number of feeding links scales with the number of species.
+
+**Hélène Voahanginirina**\
+Hélène studied how human activities in the Ankavia river basin (Madagascar) affect water quality, invertebrate and diatom communities, and organic matter decomposition.
+
+**Tessa de Bruin**\
+Tessa studied how ciliate populations respond to climate change and pollution, linking demographic responses to changes in traits.
+
+**Mark Holmes**\
+Mark studied the persistence, coexistence and adaptation of competitive communities subject to environmental change.
+
+**Daniel Oluwafemi Olusoji**\
+Daniel studied the effects of temperature on intraspecific diversity in cyanobacteria and developed analytical tools to quantify it.
+
+**Sanne Van den Berg**\
+Sanne studied how species traits can be used to predict the sensitivity of aquatic macroinvertebrates to chemicals.
+
+**Wouter Reyns**\
+Wouter studied soil carbon sequestration in heathlands and how climate change affects it through its effects on fungi.
+
+**Jonathan De Raedt**\
+Jonathan studied the combined effects of dispersal and chemical stress on the composition, diversity and productivity of marine microalgae communities.
+
+**Karel Viaene**\
+Karel developed ecological models to make the risk assessment of chemicals more realistic, for example by accounting for species interactions.
+
+**Christoph Mensens**\
+Christoph studied the effects of chemical stress across trophic levels at the base of marine food webs.
+
+**Lisette de Hoop**\
+Lisette evaluated models of chemical exposure and effects in aquatic species, including the uptake and toxicity of oil constituents.
+
+**Pham Viet Anh**
+
+## Master students
+
+**Johanna Hernandez**
+
+**Maxime Lothier**
+
+**Benoit Ficart**
+
+**Danut Chhorn**
+
+**Charles Leriche**\
+Charles studied how dispersal promotes coexistence in cyanobacterial metacommunities under environmental heterogeneity.
+
+**Robin Réveillon**
+
+**Nicola Mauro**\
+Nicola studied how acclimation to population density affects traits and population growth in the cyanobacterium *Synechococcus*.
+
+**Jannika Elfert**
+
+**Lisa Buche**
+
+**Noémie Miserque**
+
+**Razevason Mahatsangy**
+
+**Elif Kardas**
+
+**Antoine Pouillon**
+
+**Nelson Desjardin**
+
+**Raphael Hacquin**
+
+**Zequiri Meritan**
+
+**Benjamin Dujardin**
+
+**Carol-Ann Schmit**\
+Carol-Ann described and modelled how declining food resources affect the biological community of the Meuse river in Belgium and France.
+
+**GUPIE Ako Stephane**
+
+**Kamani Kouam Nouria**
+
+## Visiting researchers
+
+**Yun Li**
+
+**Chaoyue Cheng**
+
+**Shangsheng Sun**\
+Shangsheng studied how multiple environmental stressors affect multi-trophic biodiversity and ecosystem multifunctionality.
+
+:::

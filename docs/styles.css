@@ -48,3 +48,12 @@
 .person-text p:first-child {
   margin-top: 0;
 }
+
+/* Alumni page: one person per line, compact spacing */
+.alumni p {
+  margin-bottom: 0.6rem;
+}
+
+.alumni h2 {
+  margin-top: 2rem;
+}
