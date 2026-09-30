@@ -3,36 +3,35 @@
 /* People page: photo next to description */
 .person {
   display: flex;
-  gap: 1.5rem;
+  gap: 1.25rem;
   align-items: flex-start;
   margin-bottom: 2rem;
 }
 
 .person > :first-child {
-  flex: 0 0 160px;
+  flex: 0 0 112px;
   margin: 0;
 }
 
-/* Standard photo size: 160 x 200 px (4:5) */
+/* Standard photo size: 112 px wide, scaled (not cropped) */
 .person img {
   display: block;
-  width: 160px;
-  height: 200px;
-  object-fit: cover;
+  width: 112px;
+  height: auto;
   border-radius: 6px;
 }
 
 /* Grey box with initials for members without a photo */
 .person-placeholder {
-  width: 160px;
-  height: 200px;
+  width: 112px;
+  height: 140px;
   border-radius: 6px;
   background: #e9e6e0;
   color: #8e8c84;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   letter-spacing: 0.05em;
 }
@@ -48,12 +47,4 @@
 
 .person-text p:first-child {
   margin-top: 0;
-}
-
-/* Stack photo above text on phones */
-@media (max-width: 576px) {
-  .person {
-    flex-direction: column;
-    gap: 0.75rem;
-  }
 }
