@@ -42,6 +42,18 @@ I am a PhD student studying community assembly, that is, how species are gained 
 
 I investigate how multiple environmental stressors affect multi-trophic biodiversity and ecosystem multifunctionality (EMF). My work examines biodiversity responses across trophic levels and their consequences for ecosystem processes. Currently, I am developing skills in ecological modeling to analyze these complex relationships.
 
+**Dongyi Chen**
+
+![](pics/Dongyi.jpg){width="200"}
+
+My research focuses on zooplankton–microbiome interactions and the ecological processes shaping microbial community assembly. By combining field surveys, controlled experiments, and microbial community sequencing, I aim to understand how these host–microbe associations vary across species and environments, and how they contribute to broader ecosystem processes.
+
+**Marie Holthaus**
+
+![](pics/Marie.jpg){width="200"}
+
+As an environmental systems scientist, I use computational ecological models to simulate and analyze the complex dynamics of ecosystems. In my PhD project, I focus on modeling carbon cycling and microbial interactions in forest soil ecosystems and investigate how these processes respond to shifts in tree species composition and environmental conditions.
+
 **Estelle Lechat**
 
 **Alexis Orban**
