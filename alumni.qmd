@@ -4,12 +4,10 @@ title: "Alumni"
 
 ::: {.alumni}
 
-## Postdocs
-
-**Thomas Parmentier**\
+**Thomas Parmentier** (postdoc)\
 Thomas studied communities of organisms living in ant nests (myrmecophiles), focusing on their dispersal, food webs and stability.
 
-**Léa Beaumelle**\
+**Léa Beaumelle** (postdoc)\
 Léa used meta-analyses to study how chemical stressors and nutrients affect biodiversity and ecosystem functions such as litter decomposition.
 
 **Jurg Spaak** (PhD student and postdoc)\
@@ -18,95 +16,89 @@ Jurg worked on species coexistence theory, proposing a new definition of niche a
 **Zhao Qinghua** (PhD student and postdoc)\
 Qinghua studied how biodiversity, food web structure and temperature relate to the stability of aquatic food webs.
 
-**Javier Jarillo**\
+**Javier Jarillo** (postdoc)\
 Javier studied how stability scales across space and ecological levels in spatially structured community networks.
 
 **Jan Baert** (PhD student and postdoc)\
 Jan studied how environmental stress changes the effects of biodiversity on ecosystem functioning, using experiments with diatom communities.
 
-**Devdutt Kulkarni**
-
-## PhD students
+**Devdutt Kulkarni** (postdoc)\
 
 **Camille Carpentier** (Master student and PhD student)\
 Camille studied the structure of food webs, including how the number of feeding links scales with the number of species.
 
-**Hélène Voahanginirina**\
+**Hélène Voahanginirina** (PhD student)\
 Hélène studied how human activities in the Ankavia river basin (Madagascar) affect water quality, invertebrate and diatom communities, and organic matter decomposition.
 
-**Tessa de Bruin**\
+**Tessa de Bruin** (PhD student)\
 Tessa studied how ciliate populations respond to climate change and pollution, linking demographic responses to changes in traits.
 
-**Mark Holmes**\
+**Mark Holmes** (PhD student)\
 Mark studied the persistence, coexistence and adaptation of competitive communities subject to environmental change.
 
-**Daniel Oluwafemi Olusoji**\
+**Daniel Oluwafemi Olusoji** (PhD student)\
 Daniel studied the effects of temperature on intraspecific diversity in cyanobacteria and developed analytical tools to quantify it.
 
-**Sanne Van den Berg**\
+**Sanne Van den Berg** (PhD student)\
 Sanne studied how species traits can be used to predict the sensitivity of aquatic macroinvertebrates to chemicals.
 
-**Wouter Reyns**\
+**Wouter Reyns** (PhD student)\
 Wouter studied soil carbon sequestration in heathlands and how climate change affects it through its effects on fungi.
 
-**Jonathan De Raedt**\
+**Jonathan De Raedt** (PhD student)\
 Jonathan studied the combined effects of dispersal and chemical stress on the composition, diversity and productivity of marine microalgae communities.
 
-**Karel Viaene**\
+**Karel Viaene** (PhD student)\
 Karel developed ecological models to make the risk assessment of chemicals more realistic, for example by accounting for species interactions.
 
-**Christoph Mensens**\
+**Christoph Mensens** (PhD student)\
 Christoph studied the effects of chemical stress across trophic levels at the base of marine food webs.
 
-**Lisette de Hoop**\
+**Lisette de Hoop** (PhD student)\
 Lisette evaluated models of chemical exposure and effects in aquatic species, including the uptake and toxicity of oil constituents.
 
-**Pham Viet Anh**
+**Pham Viet Anh** (PhD student)\
 
-## Master students
+**Johanna Hernandez** (Master student)\
 
-**Johanna Hernandez**
+**Maxime Lothier** (Master student)\
 
-**Maxime Lothier**
+**Benoit Ficart** (Master student)\
 
-**Benoit Ficart**
-
-**Danut Chhorn**
-
-**Charles Leriche**\
+**Charles Leriche** (Master student)\
 Charles studied how dispersal promotes coexistence in cyanobacterial metacommunities under environmental heterogeneity.
 
-**Robin Réveillon**
+**Robin Réveillon** (Master student)\
 
-**Nicola Mauro**\
+**Nicola Mauro** (Master student)\
 Nicola studied how acclimation to population density affects traits and population growth in the cyanobacterium *Synechococcus*.
 
-**Jannika Elfert**
+**Jannika Elfert** (Master student)\
 
-**Lisa Buche**
+**Lisa Buche** (Master student)\
 
-**Noémie Miserque**
+**Noémie Miserque** (Master student)\
 
-**Razevason Mahatsangy**
+**Razevason Mahatsangy** (Master student)\
 
-**Elif Kardas**
+**Elif Kardas** (Master student)\
 
-**Antoine Pouillon**
+**Antoine Pouillon** (Master student)\
 
-**Nelson Desjardin**
+**Nelson Desjardin** (Master student)\
 
-**Raphael Hacquin**
+**Raphael Hacquin** (Master student)\
 
-**Zequiri Meritan**
+**Zequiri Meritan** (Master student)\
 
-**Benjamin Dujardin**
+**Benjamin Dujardin** (Master student)\
 
-**Carol-Ann Schmit**\
+**Carol-Ann Schmit** (Master student)\
 Carol-Ann described and modelled how declining food resources affect the biological community of the Meuse river in Belgium and France.
 
-**GUPIE Ako Stephane**
+**GUPIE Ako Stephane** (Master student)\
 
-**Kamani Kouam Nouria**
+**Kamani Kouam Nouria** (Master student)\
 
 ## Visiting researchers
 
